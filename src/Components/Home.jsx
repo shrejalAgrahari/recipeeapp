@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import PopularSlider from './PopularSlider'
-import TredingSlider from './TrendingSlider'
+import TrendingSlider from './TrendingSlider'
 
 const Home = () => {
   return (
@@ -9,7 +9,7 @@ const Home = () => {
       <div className="main">
         <Navbar />
         <PopularSlider />
-        <TredingSlider />
+        <TrendingSlider />
       </div>
     </>
   )

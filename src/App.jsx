@@ -1,10 +1,10 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
-import Home from './components/Home'
+import Home from './Components/Home'
 import './App.css'
-import RecipeId from './components/RecipeId'
-import Category from './components/Category'
-import SearchElement from './components/SearchElement'
+import RecipeId from './Components/RecipeId'
+import Category from './Components/Category'
+import SearchElement from './Components/SearchElement'
 
 const App = () => {
   return (
